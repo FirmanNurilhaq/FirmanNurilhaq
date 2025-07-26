@@ -3,16 +3,13 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcyOTZwc3NtaTdxMm56YjduZGttZnI3OGJ4d3oxeHR5NnNhZWphYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xSFg9Twjmtonra/giphy.gif" width="200px"/>
 
 <pre>
-▓█████▄ ▓█████ ▓█████  ██▀███   █     █░ ▒█████   ██▀███    ██████  ██░ ██  ██▓ ██▓███  ▓█████  ██▀███  
-▒██▀ ██▌▓█   ▀ ▓█   ▀ ▓██ ▒ ██▒▓█░ █ ░█░▒██▒  ██▒▓██ ▒ ██▒▒██    ▒ ▓██░ ██▒▓██▒▓██░  ██▒▓█   ▀ ▓██ ▒ ██▒
-░██   █▌▒███   ▒███   ▓██ ░▄█ ▒▒█░ █ ░█ ▒██░  ██▒▓██ ░▄█ ▒░ ▓██▄   ▒██▀▀██░▒██▒▓██░ ██▓▒▒███   ▓██ ░▄█ ▒
-░▓█▄   ▌▒▓█  ▄ ▒▓█  ▄ ▒██▀▀█▄  ░█░ █ ░█ ▒██   ██░▒██▀▀█▄    ▒   ██▒░▓█ ░██ ░██░▒██▄█▓▒ ▒▒▓█  ▄ ▒██▀▀█▄  
-░▒████▓ ░▒████▒░▒████▒░██▓ ▒██▒░░██▒██▓ ░ ████▓▒░░██▓ ▒██▒▒██████▒▒░▓█▒░██▓░██░▒██▒ ░  ░░▒████▒░██▓ ▒██▒
- ▒▒▓  ▒ ░░ ▒░ ░░░ ▒░ ░░ ▒▓ ░▒▓░░ ▓░▒ ▒  ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░▓  ▒▓▒░ ░  ░░░ ▒░ ░░ ▒▓ ░▒▓░
- ░ ▒  ▒  ░ ░  ░ ░ ░  ░  ░▒ ░ ▒░  ▒ ░ ░    ░ ▒ ▒░   ░▒ ░ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░░▒ ░      ░ ░  ░  ░▒ ░ ▒░
- ░ ░  ░    ░      ░     ░░   ░   ░   ░  ░ ░ ░ ▒    ░░   ░ ░  ░  ░   ░  ░░ ░ ▒ ░░░          ░     ░░   ░ 
-   ░       ░  ░   ░  ░   ░         ░        ░ ░     ░           ░   ░  ░  ░ ░              ░  ░   ░     
- ░                                                                                                      
+██████╗ ███████╗███████╗██████╗ ██╗    ██╗ ██████╗ ██████╗ ███████╗██╗  ██╗██╗██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██╔════╝██╔══██╗██║    ██║██╔═══██╗██╔══██╗██╔════╝██║  ██║██║██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  █████╗  ██████╔╝██║ █╗ ██║██║   ██║██████╔╝███████╗███████║██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ██╔══╝  ██╔══██╗██║███╗██║██║   ██║██╔══██╗╚════██║██╔══██║██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗███████╗██║  ██║╚███╔███╔╝╚██████╔╝██║  ██║███████║██║  ██║██║██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
+                                                                                                      
 </pre>
 </div>
 
@@ -21,7 +18,6 @@
   An <a href="https://www.unikom.ac.id/">Informatics Engineering Student</a> at UNIKOM with a passion for Full-Stack Development, Data Science, and Project Control.<br/>
   I'm a digital druid navigating the forests of code and data.
 </p>
-
 </div>
 
 ---
@@ -58,11 +54,15 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Mijea/Mijea/master/Assets/pacman.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firmannurilhaq/firmannurilhaq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firmannurilhaq/firmannurilhaq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/firmannurilhaq/firmannurilhaq/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=[YOUR_GITHUB_USERNAME]&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=firmannurilhaq&icon=1&color=4)](https://visitcount.itsvg.in)
 
 </div>
