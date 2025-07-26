@@ -15,7 +15,7 @@
 
 <div align="center">
 <p>
-  An <a href="https://www.unikom.ac.id/">Informatics Engineering Student</a> at UNIKOM with a passion for Full-Stack Development, Data Science, and Project Control.<br/>
+  An Informatics Engineering Student</a> at UNIKOM with a passion for Full-Stack Development, Data Science, and Project Control.<br/>
   I'm a digital druid navigating the forests of code and data.
 </p>
 </div>
