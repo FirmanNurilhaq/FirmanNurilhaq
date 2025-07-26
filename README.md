@@ -1,79 +1,64 @@
 <div align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcyOTZwc3NtaTdxMm56YjduZGttZnI3OGJ4d3oxeHR5NnNhZWphYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xSFg9Twjmtonra/giphy.gif" width="200px"/>
+
 <pre>
-  ▓█████▄ ▓█████ ▓█████  ██▀███   █     █░ ▒█████   ██▀███    ██████  ██░ ██  ██▓ ██▓███  ▓█████  ██▀███  
-▒██▀ ██▌▓█   ▀ ▓█   ▀ ▓██ ▒ ██▒▓█░ █ ░█░▒██▒  ██▒▓██ ▒ ██▒▒██    ▒ ▓██░ ██▒▓██▒▓██░  ██▒▓█   ▀ ▓██ ▒ ██▒
-░██   █▌▒███   ▒███   ▓██ ░▄█ ▒▒█░ █ ░█ ▒██░  ██▒▓██ ░▄█ ▒░ ▓██▄   ▒██▀▀██░▒██▒▓██░ ██▓▒▒███   ▓██ ░▄█ ▒
-░▓█▄   ▌▒▓█  ▄ ▒▓█  ▄ ▒██▀▀█▄  ░█░ █ ░█ ▒██   ██░▒██▀▀█▄    ▒   ██▒░▓█ ░██ ░██░▒██▄█▓▒ ▒▒▓█  ▄ ▒██▀▀█▄  
-░▒████▓ ░▒████▒░▒████▒░██▓ ▒██▒░░██▒██▓ ░ ████▓▒░░██▓ ▒██▒▒██████▒▒░▓█▒░██▓░██░▒██▒ ░  ░░▒████▒░██▓ ▒██▒
- ▒▒▓  ▒ ░░ ▒░ ░░░ ▒░ ░░ ▒▓ ░▒▓░░ ▓░▒ ▒  ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░▓  ▒▓▒░ ░  ░░░ ▒░ ░░ ▒▓ ░▒▓░
- ░ ▒  ▒  ░ ░  ░ ░ ░  ░  ░▒ ░ ▒░  ▒ ░ ░    ░ ▒ ▒░   ░▒ ░ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░░▒ ░      ░ ░  ░  ░▒ ░ ▒░
- ░ ░  ░    ░      ░     ░░   ░   ░   ░  ░ ░ ░ ▒    ░░   ░ ░  ░  ░   ░  ░░ ░ ▒ ░░░          ░     ░░   ░ 
-   ░       ░  ░   ░  ░   ░         ░        ░ ░     ░           ░   ░  ░  ░ ░              ░  ░   ░     
- ░                                                                                                     
+██████╗ ███████╗███████╗██████╗     ██╗    ██╗ ██████╗ ██████╗ ███████╗██╗██╗  ██╗██╗██████╗ ███████╗
+██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║    ██║██╔═══██╗██╔══██╗██╔════╝██║╚██╗██╔╝██║██╔══██╗██╔════╝
+██║  ██║█████╗  █████╗  ██████╔╝    ██║ █╗ ██║██║   ██║██████╔╝█████╗  ██║ ╚███╔╝ ██║██████╔╝█████╗  
+██║  ██║██╔══╝  ██╔══╝  ██╔══██╗    ██║███╗██║██║   ██║██╔══██╗██╔══╝  ██║ ██╔██╗ ██║██╔═══╝ ██╔══╝  
+██████╔╝███████╗███████╗██║  ██║    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██║██╔╝ ██╗██║██║     ███████╗
+╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝     ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚══════╝
 </pre>
-
-  <h1>Hi there 👋, I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  
-  <p>
-    I'm a <strong>[Your Title, e.g., Software Engineer]</strong> based in <strong>[Your Location, e.g., The Woods]</strong>.<br/>
-    Passionate about building things for the web, clean code, and of course, deer. 🦌
-  </p>
-
 </div>
 
----
-
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,figma,vscode&theme=dark" />
-  </a>
-p>
-
----
-
-### 📬 Get In Touch
-
-<p align="left">
-  <a href="https://linkedin.com/in/#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/#" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-   <a href="https://instagram.com/#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<div align="center">
+<p>
+  An <a href="https://www.unikom.ac.id/">Informatics Engineering Student</a> at UNIKOM with a passion for Full-Stack Development, Data Science, and Project Control.<br/>
+  I'm a digital druid navigating the forests of code and data.
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10" alt="Top Languages" width="49%"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&line=7957d5&point=ff9e64" alt="GitHub Activity Graph"/>
-  
 </div>
 
 ---
 
+### 💻 Tech Stack:
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Programming Languages</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=php,python,javascript,html,css,java,ts&theme=dark" /></p>
+      <hr>
+      <p><strong>Front-End & Frameworks</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,laravel,codeigniter,django,flask&theme=dark" /></p>
+      <hr>
+       <p><strong>Back-End & Servers</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,express,nginx,apache,hadoop&theme=dark" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Databases & ORM</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb,mongodb,neo4j,prisma&theme=dark" /></p>
+      <hr>
+      <p><strong>AI, Data Science & Visualization</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,tensorflow,matplotlib,plotly,tableau,powerbi&theme=dark" /></p>
+      <hr>
+      <p><strong>DevOps, Tools & Others</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,jira,notion,windows,tampermonkey&theme=dark" /></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
-  
-  <pre>(\|/": )</pre>
-  <p>Happy Coding!</p>
-  
+<img src="https://raw.githubusercontent.com/Mijea/Mijea/master/Assets/pacman.svg" />
+</div>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=[YOUR_GITHUB_USERNAME]&icon=1&color=4)](https://visitcount.itsvg.in)
+
 </div>
