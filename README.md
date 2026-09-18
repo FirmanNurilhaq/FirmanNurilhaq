@@ -16,7 +16,7 @@
 
 <div align="center">
 <p>
-  An Informatics Engineering Student with a passion for Full-Stack Development, Data Science, and Project Control.<br/>
+  A Full-Stack Developer, Data Scientist, and Project Controller.<br/>
   I'm a digital druid navigating the forests of code and data.
 </p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcyOTZwc3NtaTdxMm56YjduZGttZnI3OGJ4d3oxeHR5NnNhZWphYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xSFg9Twjmtonra/giphy.gif" width="200px"/>
